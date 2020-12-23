@@ -1,3 +1,2 @@
-<?php 
-require function.php;
-
+<?php
+ require ('function.php');
