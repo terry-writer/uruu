@@ -8,7 +8,7 @@
 //の条件を満たす
 
 
-function check_leap_year($year){
+function checkLeapYear($year){
     
     //4で割り切れない場合は、うるう年ではない
     if($year % 4 !== 0){
